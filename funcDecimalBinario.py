@@ -19,7 +19,6 @@ def converterb_d(n):
     return decimal
 
 
-
 print("Digite a opção desejada:\n1 - Decimal em binário:\n2 - Binário em decimal")
 opc = int(input("Digite a opção: "))
 if opc==1:
