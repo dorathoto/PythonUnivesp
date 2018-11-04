@@ -25,3 +25,6 @@ opc = int(input("Digite a opção: "))
 if opc==1:
     numeroD = int(input("Digite o número decimal: "))
     print(f"O número na base 10 {numeroD} em binário (base 2) é: {converterd_b(numeroD)}")
+elif opc==2:
+    numeroB = input("Digite o número em binário: ")
+    print(f"O número na base 2 {numeroB} em Decimal (base 10) é: {converterb_d(numeroB)}")
