@@ -12,15 +12,13 @@ OBS: Esse material não tenta ser uma aula de Python para isso faça um curso:
 
 Equações algébricas e transcendentes. Métodos para encontrar raízes.
 
-  - Método da bisseção ou Bolzano - [Link de onde me baseei o código](https://www.ufrgs.br/reamat/CalculoNumerico/livro-py/sdeduv-metodo_da_bissecao.html)
+- Método da bisseção ou Bolzano
 - Método das cordas
 - Método de Newton
 - Método da interação Linear
 - Método da Secante
 *Fonte para os algoritmos:* http://www.ufjf.br/flavia_bastos/files/2009/06/aula_raizes.pdf
  
-OBS: Nessa semana é necessários conhecimentos mais avançados em Python, como:
-
 |comando| Link documentação  |
 |--|--|
 |float|[Link inglês](https://docs.python.org/3/library/functions.html?highlight=float#float)|
@@ -29,11 +27,24 @@ OBS: Nessa semana é necessários conhecimentos mais avançados em Python, como:
 
 
 
+  
+
 ## Semana 1
- 
+
+  
+
+  
 
 Conversão de bases, binário em decimal e vice-versa.
+
+  
+
+  
+
 *Usando funções internas do Python para conversão:*
+
+  
+
 [S1_DecimalToBinario.py](https://github.com/dorathoto/PythonUnivesp/blob/master/S1_DecimalToBinario.py)
 
 Utilizando algoritmo para conversão:
@@ -52,3 +63,6 @@ Utilizando algoritmo para conversão:
 |formatspec| [Link](https://docs.python.org/3/library/string.html#formatspec)|
 |def:|[Link](https://wiki.python.org.br/PrincipiosFuncionais#Definindo_Fun.2BAOcA9Q-es_em_Python)  |
 |while:|[Link](http://excript.com/python/while-else-python.html) |
+
+-----------
+Fonte: https://www.ufrgs.br/reamat/CalculoNumerico/livro-py/main.html
