@@ -60,7 +60,8 @@ Utilizando algoritmo para conversão:
 - Modificar a funcDecimalBinario removendo código típicos de Python e deixando em uma lógica mais igual a Univesp
 
 ***Comandos a serem aprendidos em python para essa semana:***
-|Comando  |Link para documentação  |
+
+|Comando  |Link para documentação|
 |--|--|
 |bin() |[Link](https://docs.python.org/3/library/functions.html?highlight=abs#bin)  |
 |formatspec| [Link](https://docs.python.org/3/library/string.html#formatspec)|
