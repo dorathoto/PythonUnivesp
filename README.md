@@ -1,4 +1,7 @@
 # Python Univesp
+
+> Último update dos códigos: 04/11 23:00
+
 Material de Python para ajuda em Cálculo numérico.
 Cada arquivo vem precedido da semana, ex:
 
@@ -12,11 +15,11 @@ OBS: Esse material não tenta ser uma aula de Python para isso faça um curso:
 
 Equações algébricas e transcendentes. Métodos para encontrar raízes.
 
-- Método da bisseção ou Bolzano
+- [S2_Bissecao.py](https://github.com/dorathoto/PythonUnivesp/blob/master/S2_Bissecao.py) -> Método da bisseção ou Bolzano [Link fonte algoritimo](https://www.ufrgs.br/reamat/CalculoNumerico/livro-py/sdeduv-metodo_da_bissecao.html) 
 - Método das cordas
 - Método de Newton
 - Método da interação Linear
-- Método da Secante
+- [S2_Secante.py](https://github.com/dorathoto/PythonUnivesp/blob/master/S2_Secante.py) -> Método da Secante - [fonte](https://www.ufrgs.br/reamat/CalculoNumerico/livro-py/sdeduv-metodo_das_secantes.html) - 
 *Fonte para os algoritmos:* http://www.ufjf.br/flavia_bastos/files/2009/06/aula_raizes.pdf
  
 |comando| Link documentação  |
@@ -63,6 +66,3 @@ Utilizando algoritmo para conversão:
 |formatspec| [Link](https://docs.python.org/3/library/string.html#formatspec)|
 |def:|[Link](https://wiki.python.org.br/PrincipiosFuncionais#Definindo_Fun.2BAOcA9Q-es_em_Python)  |
 |while:|[Link](http://excript.com/python/while-else-python.html) |
-
------------
-Fonte: https://www.ufrgs.br/reamat/CalculoNumerico/livro-py/main.html
