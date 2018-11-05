@@ -1,6 +1,7 @@
 # Python Univesp
 
 > Último update dos códigos: 04/11 23:00
+> PlayList no Youtube da diciplina: [Link](https://www.youtube.com/watch?v=OXPKrTqAXuw&list=PLxI8Can9yAHebCIYfnSq7xoITrKOQpI0p)
 
 Material de Python para ajuda em Cálculo numérico.
 Cada arquivo vem precedido da semana, ex:
@@ -28,30 +29,10 @@ Equações algébricas e transcendentes. Métodos para encontrar raízes.
 |abs|[Link inglês](https://docs.python.org/3/library/functions.html?highlight=abs#abs)|
 |try/Exception|[Link](https://pythonhelp.wordpress.com/2012/09/14/tratamento-de-excecoes/)|
 
-
-
-  
-
 ## Semana 1
-
-  
-
-  
-
-Conversão de bases, binário em decimal e vice-versa.
-
-  
-
-  
-
-*Usando funções internas do Python para conversão:*
-
-  
-
-[S1_DecimalToBinario.py](https://github.com/dorathoto/PythonUnivesp/blob/master/S1_DecimalToBinario.py)
-
-Utilizando algoritmo para conversão:
-[S1_funcDecimalBinario.py](https://github.com/dorathoto/PythonUnivesp/blob/master/S1_funcDecimalBinario.py)
+**Conversão de bases, binário em decimal e vice-versa.**
+*Usando funções internas do Python para conversão:* [S1_DecimalToBinario.py](https://github.com/dorathoto/PythonUnivesp/blob/master/S1_DecimalToBinario.py)
+Utilizando algoritmo para conversão: [S1_funcDecimalBinario.py](https://github.com/dorathoto/PythonUnivesp/blob/master/S1_funcDecimalBinario.py)
 
 ----------------
 **Exercícios propostos:**
@@ -60,8 +41,7 @@ Utilizando algoritmo para conversão:
 - Modificar a funcDecimalBinario removendo código típicos de Python e deixando em uma lógica mais igual a Univesp
 
 ***Comandos a serem aprendidos em python para essa semana:***
-
-|Comando  |Link para documentação|
+|Comando  |Link para documentação  |
 |--|--|
 |bin() |[Link](https://docs.python.org/3/library/functions.html?highlight=abs#bin)  |
 |formatspec| [Link](https://docs.python.org/3/library/string.html#formatspec)|
