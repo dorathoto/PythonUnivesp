@@ -1,6 +1,12 @@
 # Python Univesp
 
 > Último update dos códigos: 04/11 23:00
+
+# 8º Bimestre
+Estatística:
+
+
+# 6º Bimestre
 > PlayList no Youtube da diciplina: [Link](https://www.youtube.com/watch?v=OXPKrTqAXuw&list=PLxI8Can9yAHebCIYfnSq7xoITrKOQpI0p)
 
 Material de Python para ajuda em Cálculo numérico.
@@ -23,11 +29,11 @@ Equações algébricas e transcendentes. Métodos para encontrar raízes.
 - [S2_Secante.py](https://github.com/dorathoto/PythonUnivesp/blob/master/S2_Secante.py) -> Método da Secante - [fonte](https://www.ufrgs.br/reamat/CalculoNumerico/livro-py/sdeduv-metodo_das_secantes.html) - 
 *Fonte para os algoritmos:* http://www.ufjf.br/flavia_bastos/files/2009/06/aula_raizes.pdf
  
-|comando| Link documentação  |
-|--|--|
-|float|[Link inglês](https://docs.python.org/3/library/functions.html?highlight=float#float)|
-|abs|[Link inglês](https://docs.python.org/3/library/functions.html?highlight=abs#abs)|
-|try/Exception|[Link](https://pythonhelp.wordpress.com/2012/09/14/tratamento-de-excecoes/)|
+| comando       | Link documentação                                                                     |
+| ------------- | ------------------------------------------------------------------------------------- |
+| float         | [Link inglês](https://docs.python.org/3/library/functions.html?highlight=float#float) |
+| abs           | [Link inglês](https://docs.python.org/3/library/functions.html?highlight=abs#abs)     |
+| try/Exception | [Link](https://pythonhelp.wordpress.com/2012/09/14/tratamento-de-excecoes/)           |
 
 ## Semana 1
 **Conversão de bases, binário em decimal e vice-versa.**
@@ -41,9 +47,9 @@ Utilizando algoritmo para conversão: [S1_funcDecimalBinario.py](https://github.
 - Modificar a funcDecimalBinario removendo código típicos de Python e deixando em uma lógica mais igual a Univesp
 
 ***Comandos a serem aprendidos em python para essa semana:***
-|Comando  |Link para documentação  |
-|--|--|
-|bin() |[Link](https://docs.python.org/3/library/functions.html?highlight=abs#bin)  |
-|formatspec| [Link](https://docs.python.org/3/library/string.html#formatspec)|
-|def:|[Link](https://wiki.python.org.br/PrincipiosFuncionais#Definindo_Fun.2BAOcA9Q-es_em_Python)  |
-|while:|[Link](http://excript.com/python/while-else-python.html) |
+| Comando    | Link para documentação                                                                      |
+| ---------- | ------------------------------------------------------------------------------------------- |
+| bin()      | [Link](https://docs.python.org/3/library/functions.html?highlight=abs#bin)                  |
+| formatspec | [Link](https://docs.python.org/3/library/string.html#formatspec)                            |
+| def:       | [Link](https://wiki.python.org.br/PrincipiosFuncionais#Definindo_Fun.2BAOcA9Q-es_em_Python) |
+| while:     | [Link](http://excript.com/python/while-else-python.html)                                    |
