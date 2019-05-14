@@ -1,6 +1,6 @@
 # Python Univesp
 
-> Último update dos códigos: 04/11 23:00
+> Último update dos códigos: 14/05/2019 08:34
 Necessário Python 3.6 ou superior
 
 # 8º Bimestre
