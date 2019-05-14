@@ -1,3 +1,7 @@
+###############################################
+# Referência: https://www.vooo.pro/insights/6-passos-faceis-para-aprender-o-algoritmo-naive-bayes-com-o-codigo-em-python/
+
+
 # A probabilidade de uma pessoa ter certa doença A é de 1% consequentemente, a probabilidade de não ter a doença é de 99%
 probabilidade_doenca = 0.01
 probabilidade_nao_doenca = 1 - probabilidade_doenca
