@@ -5,7 +5,7 @@ Necessário Python 3.6 ou superior
 
 # 8º Bimestre
 Folder: *(8_Bimestre)*
-### Estatística:
+### Estatística: [Link](https://github.com/dorathoto/PythonUnivesp/tree/master/8_Bimestre)
 [probabilidade-v1.py](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/probabilidade-v1.py "probabilidade-v1.py") - Probabilidade básica, interessante notar como funciona o número aleatório em programação que não é exatamente aleatório, só com uma amostragem grande ele fornece dados interessante.
     execute: python probabilidade-v1.py 
 
