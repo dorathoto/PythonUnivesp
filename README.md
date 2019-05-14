@@ -1,13 +1,22 @@
 # Python Univesp
 
 > Último update dos códigos: 04/11 23:00
+Necessário Python 3.6 ou superior
 
 # 8º Bimestre
-Estatística:
+Folder: *(8_Bimestre)*
+### Estatística:
+[probabilidade-v1.py](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/probabilidade-v1.py "probabilidade-v1.py") - Probabilidade básica, interessante notar como funciona o número aleatório em programação que não é exatamente aleatório, só com uma amostragem grande ele fornece dados interessante.
+    execute: python probabilidade-v1.py 
+
+ 
+
+------------
 
 
 # 6º Bimestre
 > PlayList no Youtube da diciplina: [Link](https://www.youtube.com/watch?v=OXPKrTqAXuw&list=PLxI8Can9yAHebCIYfnSq7xoITrKOQpI0p)
+Folder: 6_Bimestre
 
 Material de Python para ajuda em Cálculo numérico.
 Cada arquivo vem precedido da semana, ex:
