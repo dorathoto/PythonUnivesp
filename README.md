@@ -9,6 +9,9 @@ Folder: *(8_Bimestre)*
 [probabilidade-v1.py](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/probabilidade-v1.py "probabilidade-v1.py") - Probabilidade básica, interessante notar como funciona o número aleatório em programação que não é exatamente aleatório, só com uma amostragem grande ele fornece dados interessante.
     execute: python probabilidade-v1.py 
 
+[dist_probabilidades.ipynb](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/dist_probabilidades.ipynb "dist_probabilidades.ipynb") - Exercício de apoio 2 da semana 2 de Estatística, apresentado na forma de um notebook e visualização via biblioteca `matplotlib.pyplot`.
+
+Os notebook misturam caraterísticas de um IDE e do console interativo, permitindo rodar pequenos scripts e observar na hora o resultado. O GitHub tem a capacidade de visualizar o notebook de forma nativa, por tanto, o que você vê na página do GitHub é o que você veria no Jupyter Lab, por exemplo. A diferencia é que ele aparece de forma estática. Se você quiser mexer com o código, pode experimentar com um notebook no navegador acessando [https://jupyter.org/](https://jupyter.org/), copiando e colando o conteudo das celdas, executando com "Run". O próprio notebook apresentará um breve instrutivo sobre o funcionamento do notebook online e instruções de instalação se quiser usar offline.
  
 
 ------------
