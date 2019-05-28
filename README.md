@@ -1,11 +1,17 @@
 # Python Univesp
 
-> Último update dos códigos: 21/05/2019 09:51
+> Último update dos códigos: 28/05/2019 08:51
 Necessário Python 3.6 ou superior
 
 # 8º Bimestre
 Folder: *(8_Bimestre)*
 ### Estatística: [Link](https://github.com/dorathoto/PythonUnivesp/tree/master/8_Bimestre)
+Semana 3
+Estatística descritiva
+[Semana3-v2.py](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/Semana3-v2.py) - Utilizando Pandas para s², s, moda, variancia, etc.
+Foi executado com Spyder por ser uma IDE específica para analise de Dados
+[Ajuda com spyder](http://mundoia.com.br/tutorial/analise-exploratoria-de-dados-extraindo-insights-do-fifa-18/)
+
 Semana 2
 [probabilidade-v3.py](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/probabilidade-v3.py) - Semana 2 - Mesmo exemplo  probabilidade-v1.py com Variância, Esperança
 

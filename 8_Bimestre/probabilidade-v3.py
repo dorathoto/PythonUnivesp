@@ -33,10 +33,11 @@ for interacao in range(1, qtdMax):
     somatoriaValores += rnd
 
     # Calculo de Variancia, inicialmente faço uma temporária Variancia
-    # ** é exponenciação em python (fórmula https://drive.google.com/file/d/1x8vP4FuVxfN2PpwnUOxMP-NHBA-PZJdI/preview)
+    # ** (duplo asteristico) é exponenciação em python (fórmula https://drive.google.com/file/d/1x8vP4FuVxfN2PpwnUOxMP-NHBA-PZJdI/preview)
     mediaTemp = somatoriaValores / interacao
     tempvariancia = ((somatoriaValores**2) -
                      (interacao*mediaTemp)**2)/interacao-1
+
     # Se quiser mostrar o valor em cada interação só descomentar a linha abaixo
     # print(F'{interacao}: {somatoriaValores}/{interacao+1} => {tempvariancia} rnd{rnd}')
 
