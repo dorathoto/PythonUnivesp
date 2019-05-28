@@ -9,10 +9,10 @@ Faça o download [instalando o Git](https://git-scm.com/downloads "instalando o 
 # 8º Bimestre
 Folder: *(8_Bimestre)*
 ### Estatística: [Link](https://github.com/dorathoto/PythonUnivesp/tree/master/8_Bimestre)
-**Semana 3**
+**Semana 4**
 > Estatística descritiva
 
-[Semana3-v2.py](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/Semana3-v2.py) - Utilizando Pandas para s², s, moda, variancia, etc.
+[Semana4-v2.py](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/Semana4-v2.py) - Utilizando Pandas para s², s, moda, variancia, etc.
 Foi executado com Spyder por ser uma IDE específica para analise de Dados
 [Ajuda com spyder](http://mundoia.com.br/tutorial/analise-exploratoria-de-dados-extraindo-insights-do-fifa-18/)
 
