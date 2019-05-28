@@ -3,16 +3,20 @@
 > Último update dos códigos: 28/05/2019 08:51
 Necessário Python 3.6 ou superior
 
+Faça o download [instalando o Git](https://git-scm.com/downloads "instalando o Git") e depois executando o comando:
+`    git clone https://github.com/dorathoto/PythonUnivesp.git`
+
 # 8º Bimestre
 Folder: *(8_Bimestre)*
 ### Estatística: [Link](https://github.com/dorathoto/PythonUnivesp/tree/master/8_Bimestre)
-Semana 3
-Estatística descritiva
+**Semana 3**
+> Estatística descritiva
+
 [Semana3-v2.py](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/Semana3-v2.py) - Utilizando Pandas para s², s, moda, variancia, etc.
 Foi executado com Spyder por ser uma IDE específica para analise de Dados
 [Ajuda com spyder](http://mundoia.com.br/tutorial/analise-exploratoria-de-dados-extraindo-insights-do-fifa-18/)
 
-Semana 2
+**Semana 2**
 [probabilidade-v3.py](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/probabilidade-v3.py) - Semana 2 - Mesmo exemplo  probabilidade-v1.py com Variância, Esperança
 
 
@@ -69,7 +73,10 @@ Utilizando algoritmo para conversão: [S1_funcDecimalBinario.py](https://github.
 - Modificar a funcDecimalBinario removendo código típicos de Python e deixando em uma lógica mais igual a Univesp
 
 ***Comandos a serem aprendidos em python para essa semana:***
-| Comando    | Link para documentação                                                                      |
+
+
+
+| Comando    | Link documentação                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------- |
 | bin()      | [Link](https://docs.python.org/3/library/functions.html?highlight=abs#bin)                  |
 | formatspec | [Link](https://docs.python.org/3/library/string.html#formatspec)                            |
