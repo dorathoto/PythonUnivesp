@@ -24,7 +24,7 @@ qtdMax = int(
     input('Quantas vezes gostaria de jogar o dado de 6 faces não viciado? '))
 
 # cada repetição estará na variavel interaçã ex:interacao=0 1ª jogada; interacao=1 2ª jogada..etc
-for interacao in range(qtdMax):
+for interacao in range(1, qtdMax):
 
     # RND contém o número gerado aleatóriamente entre 1 e 6
     rnd = randint(1, 6)
@@ -34,9 +34,11 @@ for interacao in range(qtdMax):
 
     # Calculo de Variancia, inicialmente faço uma temporária Variancia
     # ** é exponenciação em python (fórmula https://drive.google.com/file/d/1x8vP4FuVxfN2PpwnUOxMP-NHBA-PZJdI/preview)
-    tempvariancia = ((1 - (somatoriaValores/(interacao+1))**2)*1/6)
+    mediaTemp = somatoriaValores / interacao
+    tempvariancia = ((somatoriaValores**2) -
+                     (interacao*mediaTemp)**2)/interacao-1
     # Se quiser mostrar o valor em cada interação só descomentar a linha abaixo
-    #print(F'{interacao}: {somatoriaValores}/{interacao+1} => {tempvariancia} rnd{rnd}')
+    # print(F'{interacao}: {somatoriaValores}/{interacao+1} => {tempvariancia} rnd{rnd}')
 
     # Vou somando as variancias
     variancia += tempvariancia
