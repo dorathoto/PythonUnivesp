@@ -6,6 +6,9 @@ Necessário Python 3.6 ou superior
 Faça o download [instalando o Git](https://git-scm.com/downloads "instalando o Git") e depois executando o comando:
 `    git clone https://github.com/dorathoto/PythonUnivesp.git`
 
+Aqui não existe especialista, nem em Python nem na Disciplina.
+Fique a vontade para contribuir.
+
 
 # 8º Bimestre
 Folder: *(8_Bimestre)*
