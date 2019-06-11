@@ -16,6 +16,10 @@ Folder: *(8_Bimestre)*
 Foi executado com Spyder por ser uma IDE específica para analise de Dados
 [Ajuda com spyder](http://mundoia.com.br/tutorial/analise-exploratoria-de-dados-extraindo-insights-do-fifa-18/)
 
+**Semana 3**
+
+[transformadores.ipynb](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/transformadores.ipynb "Modelo de Transfomador Ideal") - Instalações Elétricas - Transformador Ideal. Abrir e executar no [Jupyter Notebook](https://jupyter.org/).
+
 **Semana 2**
 [probabilidade-v3.py](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/probabilidade-v3.py) - Semana 2 - Mesmo exemplo  probabilidade-v1.py com Variância, Esperança
 
@@ -26,6 +30,8 @@ Foi executado com Spyder por ser uma IDE específica para analise de Dados
 [dist_probabilidades.ipynb](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/dist_probabilidades.ipynb "dist_probabilidades.ipynb") - Exercício de apoio 2 da semana 2 de Estatística, apresentado na forma de um notebook e visualização via biblioteca `matplotlib.pyplot`.
 
 Os notebook misturam caraterísticas de um IDE e do console interativo, permitindo rodar pequenos scripts e observar na hora o resultado. O GitHub tem a capacidade de visualizar o notebook de forma nativa, por tanto, o que você vê na página do GitHub é o que você veria no Jupyter Lab, por exemplo. A diferencia é que ele aparece de forma estática. Se você quiser mexer com o código, pode experimentar com um notebook no navegador acessando [https://jupyter.org/](https://jupyter.org/), copiando e colando o conteudo das celdas, executando com "Run". O próprio notebook apresentará um breve instrutivo sobre o funcionamento do notebook online e instruções de instalação se quiser usar offline.
+
+[instalacoes_eletricas1.ipynb](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/instalacoes_eletricas1.ipynb "Circuito Monofásico") - Instalações Elétricas - Circuito monofásico. Abrir e executar no [Jupyter Notebook](https://jupyter.org/).
  
 
 ------------
