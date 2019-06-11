@@ -11,9 +11,7 @@ Faça o download [instalando o Git](https://git-scm.com/downloads "instalando o 
 Folder: *(8_Bimestre)*
 ## Estatística: [Link](https://github.com/dorathoto/PythonUnivesp/tree/master/8_Bimestre)
 **Semana 6**
-Semana6_v1.py - Utilizando Scipy e Matplotlib para fazer distribuição normal.
-
-**Semana 5**
+[Semana6_v1.py](https://github.com/dorathoto/PythonUnivesp/blob/master/8_Bimestre/Semana6_v1.py "Semana6_v1.py") - Utilizando Scipy e Matplotlib para fazer distribuição normal.
 
 **Semana 4**
 > Estatística descritiva
